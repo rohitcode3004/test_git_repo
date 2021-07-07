@@ -1,0 +1,1 @@
+scp -r lokpalonline@10.197.184.179:/var/www/html/lokpal_test c:\Users\HP\Documents\lokpal_test
